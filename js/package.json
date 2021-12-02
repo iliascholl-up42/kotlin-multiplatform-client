@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "kotlin-multiplatform-client": "file:../build/js/packages/kotlin-multiplatform-client",
+    "kotlin": "1.6.0-RC2"
+  }
+}
